@@ -1,0 +1,84 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangladeshi",JAMUNA TV
+http://172.19.178.29:18190/CLOUD-TV-02/index.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV-2" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangladeshi",JAMUNA TV-2
+http://172.19.178.39:18190/JS-TV-03/index.m3u8
+
+#EXTINF:-1 tvg-name="JAMUNA TV-3" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangladeshi",JAMUNA TV-3
+http://172.19.178.49:18190/SN-ST-TV-06/index.m3u8
+
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV HD
+http://172.19.178.39:18190/JS-TV-01/index.m3u8
+
+#EXTINF:-1 tvg-name="GAZI TV-2 HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV-2 HD
+http://172.19.178.59:18190/SN-ST-TV-34/index.m3u8
+
+#EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD
+http://172.19.178.39:18190/JS-TV-02/index.m3u8
+
+#EXTINF:-1 tvg-name="MAASRANGA TV HD-2" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Bangladeshi",MAASRANGA TV HD-2
+http://172.19.178.59:18190/SN-ST-TV-28/index.m3u8
+
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="Bangladeshi",SOMOY TV
+http://172.19.178.39:18190/JS-TV-05/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangladeshi",CHANNEL I HD
+http://172.19.178.39:18190/JS-TV-07/index.m3u8
+
+#EXTINF:-1 tvg-name="CHANNEL I HD-2" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangladeshi",CHANNEL I HD-2
+http://172.19.178.59:18190/SN-ST-TV-22/index.m3u8
+
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="http://172.19.178.178/tv/img/tsports.png" group-title="Bangladeshi",T Sports
+http://172.19.178.39:18190/U-TV-01/index.m3u8
+
+#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Bangladeshi",BANGLA VISION HD
+http://172.19.178.49:18190/SN-ST-TV-03/index.m3u8
+
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="Bangladeshi",NTV
+http://172.19.178.59:18190/SN-ST-TV-33/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV HD" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangladeshi",RTV HD
+http://172.19.178.19:18190/INT-TV-01/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV HD-2" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangladeshi",RTV HD-2
+http://172.19.178.59:18190/SN-ST-TV-38/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN News TV" tvg-logo="http://172.19.178.178/tv/img/atnnews.png" group-title="Bangladeshi",ATN News TV
+http://172.19.178.59:18190/SN-ST-TV-20/index.m3u8
+
+#EXTINF:-1 tvg-name="Desh TV" tvg-logo="http://172.19.178.178/tv/img/deshtv.png" group-title="Bangladeshi",Desh TV
+http://172.19.178.59:18190/SN-ST-TV-21/index.m3u8
+
+#EXTINF:-1 tvg-name="NAGORIK TV" tvg-logo="https://sunplex.net/iptv/logo/nagorik-tv.jpg" group-title="",NAGORIK TV
+http://172.19.178.59:18190/SN-ST-TV-24/index.m3u8
+
+#EXTINF:-1 tvg-name="DEPTO BANGLA HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="Bangladeshi",DEPTO BANGLA HD
+http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
+
+#EXTINF:-1 tvg-name="DEPTO BANGLA HD-2" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="Bangladeshi",DEPTO BANGLA HD-2
+http://172.19.178.19:18190/IX-TV-01/index.m3u8
+
+#EXTINF:-1 tvg-name="EKUSHEY TV" tvg-logo="https://sunplex.net/iptv/logo/ekushey-tv.jpg" group-title="Bangladeshi",EKUSHEY TV
+http://172.19.178.59:18190/SN-ST-TV-26/index.m3u8
+
+#EXTINF:-1 tvg-name="Peace TV Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d3/%E0%A6%AA%E0%A6%BF%E0%A6%B8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE.png" group-title="Bangladeshi",Peace TV Bangla
+http://172.19.178.59:18190/SN-ST-TV-27/index.m3u8
+
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="Bangladeshi",ATN BANGLA
+http://172.19.178.59:18190/SN-ST-TV-29/index.m3u8
+
+#EXTINF:-1 tvg-name="Asian TV" tvg-logo="http://172.19.178.178/tv/img/asian.png" group-title="Bangladeshi",Asian TV
+http://172.19.178.59:18190/SN-ST-TV-30/index.m3u8
+
+#EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangladeshi",EKATTOR TV HD
+http://172.19.178.59:18190/SN-ST-TV-31/index.m3u8
+
+#EXTINF:-1 tvg-name="MY TV HD" tvg-logo="https://sunplex.net/iptv/logo/my-tv.jpg" group-title="Bangladeshi",MY TV HD
+http://172.19.178.59:18190/SN-ST-TV-32/index.m3u8
+
+#EXTINF:-1 tvg-name="DBC News" tvg-logo="http://pgplex.net/img/channels/dbcnews.png" group-title="Bangladeshi",DBC News
+http://172.19.178.59:18190/SN-ST-TV-37/index.m3u8
+
+#EXTINF:-1 tvg-name="DBC News-2" tvg-logo="http://pgplex.net/img/channels/dbcnews.png" group-title="Bangladeshi",DBC News-2
+https://livess.ncare.live/live-orgin/dbcnews.stream/playlist.m3u8
